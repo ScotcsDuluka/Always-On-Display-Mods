@@ -7,11 +7,8 @@
 <h1 align="center">A Module to Customize Always On Display on HyperOS</h1>
 
 <p align="center">
-  <a href="https://github.com/ScotcsDuluka/HyperOS-AOD/releases">
+  <a href="https://github.com/ScotcsDuluka/HyperOS-Mods/releases">
     <img src="https://img.shields.io/badge/Download-Latest-blue?style=for-the-badge" alt="Download"/>
-  </a>
-  <a href="https://github.com/ScotcsDuluka/HyperOS-AOD/issues">
-    <img src="https://img.shields.io/badge/Report%20Issue-red?style=for-the-badge" alt="Issues"/>
   </a>
 </p>
 
