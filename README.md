@@ -19,32 +19,14 @@
 
 ## Supported Devices
 
-- Tested on **VEUX** models  
-- Only compatible with devices running **HyperOS1**  
+- Compatible with HyperOS 3.0 and above, or Android 16.
+- Only compatible with devices running **HyperOS3+**  
 - Root access required (works via **Magisk**)
-
----
-
-## Key Features
-
-- Add more image groups to the **Always On Display (AOD)**  
-- Customize the `AOD.apk`  
-- Installable directly via **Magisk** without manual editing
-
----
-
-## Installation
-
-1. Open **Magisk**  
-2. Go to the **Modules** tab and select **Install from file**  
-3. Choose the `HyperOS-AOD.zip` file  
-4. Wait for the installation to complete and **restart your device**
 
 ---
 
 ## Notes
 
-- Fully tested and working ✅  
 - It's recommended to **back up your original `AOD.apk`** before installing
 
 ---
