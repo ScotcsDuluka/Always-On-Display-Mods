@@ -1,7 +1,7 @@
 <h1 align="center">HyperOS Always On Display Mods</h1>
 
 <p align="center">
-  <img src="https://drive.google.com/uc?id=1EujfYz6TpzbM9d5P7l8F1YqGgCp6IQdu" alt="Preview AOD" width="400"/>
+  <img src="https://drive.google.com/uc?id=1EujfYz6TpzbM9d5P7l8F1YqGgCp6IQdu" alt="Preview AOD" />
 </p>
 
 <h1 align="center">A Module to Customize Always On Display on HyperOS-1</h1>
