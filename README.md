@@ -1,41 +1,56 @@
 <h1 align="center">HyperOS Always On Display Mods</h1>
 
-![Preview AOD](https://drive.google.com/uc?id=1EujfYz6TpzbM9d5P7l8F1YqGgCp6IQdu)
+<p align="center">
+  <img src="https://drive.google.com/uc?id=1EujfYz6TpzbM9d5P7l8F1YqGgCp6IQdu" alt="Preview AOD" width="400"/>
+</p>
 
-<h1 align="center">โมดูลสำหรับปรับแต่ง Always On Display บน HyperOS-1</h1>
+<h1 align="center">A Module to Customize Always On Display on HyperOS-1</h1>
 
-## รองรับอุปกรณ์
-
-- ทดสอบแล้วบนรุ่น VEUX
-- รองรับเฉพาะอุปกรณ์ที่ใช้ระบบปฏิบัติการ HyperOS1
-- ต้อง Root เครื่องแล้ว (เพราะใช้ผ่าน Magisk)
-
----
-
-## ฟีเจอร์หลัก
-
-- เพิ่มกลุ่มรูปภาพใน AOD
-- ปรับแต่ง AOD.apk
-- รองรับการติดตั้งผ่าน Magisk โดยตรง ไม่ต้องแก้ไขด้วยตัวเอง
+<p align="center">
+  <a href="https://github.com/ScotcsDuluka/HyperOS-AOD/releases">
+    <img src="https://img.shields.io/badge/Download-Latest-blue?style=for-the-badge" alt="Download"/>
+  </a>
+  <a href="https://github.com/ScotcsDuluka/HyperOS-AOD/issues">
+    <img src="https://img.shields.io/badge/Report%20Issue-red?style=for-the-badge" alt="Issues"/>
+  </a>
+</p>
 
 ---
 
-## วิธีติดตั้ง
+## Supported Devices
 
-1. เปิด Magisk
-2. ไปที่แท็บโมดูล แล้วเลือก "ติดตั้งจากไฟล์"
-3. เลือกไฟล์ `HyperOS-AOD.zip`
-4. รอการติดตั้งให้เสร็จ แล้วรีสตาร์ทเครื่อง
-
----
-
-## หมายเหตุ
-
-- ทดสอบแล้ว ใช้งานได้จริง
-- แนะนำให้สำรองไฟล์ `AOD.apk` เดิมไว้ก่อนติดตั้ง เพื่อความปลอดภัย
+- Tested on **VEUX** models  
+- Only compatible with devices running **HyperOS1**  
+- Root access required (works via **Magisk**)
 
 ---
 
-## ผู้พัฒนา
+## Key Features
 
-By: ScotcsDuluka  
+- Add more image groups to the **Always On Display (AOD)**  
+- Customize the `AOD.apk`  
+- Installable directly via **Magisk** without manual editing
+
+---
+
+## Installation
+
+1. Open **Magisk**  
+2. Go to the **Modules** tab and select **Install from file**  
+3. Choose the `HyperOS-AOD.zip` file  
+4. Wait for the installation to complete and **restart your device**
+
+---
+
+## Notes
+
+- Fully tested and working ✅  
+- It's recommended to **back up your original `AOD.apk`** before installing
+
+---
+
+## Developer
+
+By: **ScotcsDuluka**  
+
+<p align="center">Made with ❤️ by ScotcsDuluka</p>
