@@ -4,7 +4,7 @@
   <img src="https://drive.google.com/uc?id=1EujfYz6TpzbM9d5P7l8F1YqGgCp6IQdu" alt="Preview AOD" />
 </p>
 
-<h1 align="center">A Module to Customize Always On Display on HyperOS-3</h1>
+<h1 align="center">A Module to Customize Always On Display on HyperOS</h1>
 
 <p align="center">
   <a href="https://github.com/ScotcsDuluka/HyperOS-AOD/releases">
@@ -19,8 +19,7 @@
 
 ## Supported Devices
 
-- Compatible with HyperOS 3.0 and above, or Android 16.
-- Only compatible with devices running **HyperOS3+**  
+- Compatible with HyperOS 1-3
 - Root access required (works via **Magisk**)
 
 ---
